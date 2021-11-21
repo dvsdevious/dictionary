@@ -1,9 +1,10 @@
 import './App.css';
+import Dictionary from './Dictionary';
 
 function App() {
   return (
       <div>
-        <h1> Dictionary Project</h1>
+        <Dictionary/>
         </div>
   );
 }
