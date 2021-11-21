@@ -1,0 +1,9 @@
+.Results {
+    margin-top: 30%;
+}
+.Results input {
+    width: 100%; 
+    border-radius: 6px;
+    padding:6px 10px;
+    border: 1px solid;
+}
