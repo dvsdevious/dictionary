@@ -4,7 +4,8 @@ import Dictionary from './Dictionary';
 function App() {
   return (
       <div>
-        <Dictionary/>
+        <img src="/dvs.dev.png" width="300"/>
+        <Dictionary defaultKeyword="bee"/>
         </div>
   );
 }
